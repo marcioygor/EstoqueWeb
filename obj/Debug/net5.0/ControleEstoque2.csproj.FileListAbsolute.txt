@@ -65,3 +65,8 @@ C:\Users\Marcio Ygor\Documents\Aulas_Web\Asp-Net\ControleEstoque2\obj\Debug\net5
 C:\Users\Marcio Ygor\Documents\Aulas_Web\Asp-Net\ControleEstoque2\obj\Debug\net5.0\ref\ControleEstoque2.dll
 C:\Users\Marcio Ygor\Documents\Aulas_Web\Asp-Net\ControleEstoque2\obj\Debug\net5.0\ControleEstoque2.pdb
 C:\Users\Marcio Ygor\Documents\Aulas_Web\Asp-Net\ControleEstoque2\obj\Debug\net5.0\ControleEstoque2.genruntimeconfig.cache
+C:\Users\Marcio Ygor\Documents\Aulas_Web\Asp-Net\ControleEstoque2\obj\Debug\net5.0\Razor\Views\Shared\_Mensagem.cshtml.g.cs
+C:\Users\Marcio Ygor\Documents\Aulas_Web\Asp-Net\ControleEstoque2\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Marcio Ygor\Documents\Aulas_Web\Asp-Net\ControleEstoque2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Marcio Ygor\Documents\Aulas_Web\Asp-Net\ControleEstoque2\bin\Debug\net5.0\estoque.db
+C:\Users\Marcio Ygor\Documents\Aulas_Web\Asp-Net\ControleEstoque2\obj\Debug\net5.0\Razor\Views\Categoria\Index.cshtml.g.cs

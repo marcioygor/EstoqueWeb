@@ -8,6 +8,8 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Microsoft.EntityFrameworkCore;
+using ControleEstoque2.Models;
 
 namespace ControleEstoque2
 {
@@ -24,6 +26,7 @@ namespace ControleEstoque2
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+            services.AddDbContext<EstoqueWebContext>(options => options.UseSqlite(Configuration.GetConnectionString("EstoqueWebContext")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
