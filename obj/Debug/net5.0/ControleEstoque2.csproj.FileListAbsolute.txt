@@ -70,3 +70,5 @@ C:\Users\Marcio Ygor\Documents\Aulas_Web\Asp-Net\ControleEstoque2\bin\Debug\net5
 C:\Users\Marcio Ygor\Documents\Aulas_Web\Asp-Net\ControleEstoque2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\Marcio Ygor\Documents\Aulas_Web\Asp-Net\ControleEstoque2\bin\Debug\net5.0\estoque.db
 C:\Users\Marcio Ygor\Documents\Aulas_Web\Asp-Net\ControleEstoque2\obj\Debug\net5.0\Razor\Views\Categoria\Index.cshtml.g.cs
+C:\Users\Marcio Ygor\Documents\Aulas_Web\Asp-Net\ControleEstoque2\obj\Debug\net5.0\Razor\Views\Categoria\Cadastrar.cshtml.g.cs
+C:\Users\Marcio Ygor\Documents\Aulas_Web\Asp-Net\ControleEstoque2\obj\Debug\net5.0\Razor\Views\Categoria\Excluir.cshtml.g.cs
