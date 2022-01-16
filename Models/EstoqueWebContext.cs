@@ -9,9 +9,11 @@ namespace ControleEstoque2.Models
         }
 
         public DbSet<CategoriaModel> Categorias { get; set; }
+        public DbSet<ProdutoModel> Produtos { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder){
-          modelBuilder.Entity<CategoriaModel>().ToTable("Categoria"); //Definindo o nome da tabela no banco
+          modelBuilder.Entity<CategoriaModel>().ToTable("Categoria");
+          modelBuilder.Entity<ProdutoModel>().ToTable("Produto"); //Definindo o nome da tabela no banco
       }
     }
 }

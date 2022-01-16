@@ -1,14 +1,14 @@
 @if(TempData.ContainsKey("mensagem")){
      var mensagem=MensagemModel.Desserializar(TempData["mensagem"].ToString());
      @if(mensagem.Tipo==TipoMensagem.Erro){
-       <div class="alert alert-warning mt-3 alert-dismissible fade show" role="alert">
+       <div class="alert alert-danger" role="alert">
           @mensagem.Texto
           <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
         </div>
     }
 
     else{
-         <div class="alert alert-sucess mt-3 alert-dismissible fade show" role="alert">
+         <div class="alert alert-success" role="alert">
           @mensagem.Texto
           <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
         </div>
